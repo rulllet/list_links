@@ -1,0 +1,39 @@
+{
+    "greetings": "Приветствие {0.first_name}",
+    "link_list":[
+        {
+            "name_link": "Durov's Channel",
+            "url_link": "https://t.me/durov"
+        },
+        {
+            "name_link": "Павел Дуров",
+            "url_link": "https://t.me/durov_russia"
+        },
+        {
+            "name_link": "Test",
+            "url_link": "https://t.me/"
+        }
+    ],
+    "instructions":[
+        {
+            "question": "Вопрос 1",
+            "answer": "Ответ 1",
+            "call_back_data": "instruction_1"
+        },
+        {
+            "question": "Вопрос 2",
+            "answer": "Ответ 2",
+            "call_back_data": "instruction_2"
+        },
+        {
+            "question": "Вопрос 3",
+            "answer": "Ответ 3",
+            "call_back_data": "instruction_3"
+        },
+        {
+            "question": "Вопрос 4",
+            "answer": "Ответ 4",
+            "call_back_data": "instruction_4"
+        }
+    ]  
+}
